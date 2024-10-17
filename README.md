@@ -7,5 +7,5 @@ Every single line of code is explained, or why it's there.
 3. Change the "insert.swf", and "favicon.png" lines accordingly
 4. Upload to Github Pages under the main branch in //root.
 5. Test the aspect ratio
-  5.1. Adjust the width, and height accordingly to remove the dead pixels.
+- Adjust the width, and height accordingly to remove the dead pixels.
 6. Enjoy!
