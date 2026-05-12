@@ -3,6 +3,12 @@
   <head>
     <title>Game Name</title> // Replace with the actual game name, like "Meat Boy".
     <link rel="shortcut icon" type="image/png" href="favicon.png"/> // Little image on the tab, also known as a favicon
+        <style>
+            body, html {
+                margin: 0;
+                padding: 0;
+            }
+        </style>
     <script> // So it can escape certain filters, like GoGuardian
         window.onbeforeunload = function() {
             return "Are you sure you want to reload?";
