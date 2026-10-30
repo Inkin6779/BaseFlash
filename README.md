@@ -9,5 +9,3 @@ Every single line of code is explained, or why it's there.
 5. Test the aspect ratio
 - For #5, if there is dead pixels (Pixels out of the ratio needed), Adjust the width, and height accordingly.
 6. Enjoy!
-# NOTE FOR CURRENT ONLOOKERS
-I am testing out a new thing for #5 to be easier, if you want to use this, wait until this, and the URL Page is deleted (or if it's been a bit, create an issue.)
